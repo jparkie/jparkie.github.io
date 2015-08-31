@@ -1,19 +1,14 @@
 ---
 layout: page
-title: About Pixyll
+title: About Jacob Park
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+I am a learning enthusiast; particularly, I am enthusiastic in learning about various emerging technologies.
+
+As a hobby, I am very involved with the Android platform and its community. My various Android related open-sourced applications and libraries accumulate to a total of over **400 stars** on GitHub: [https://github.com/jparkie](https://github.com/jparkie).
+
+Professionally, I am a Scala and Typesafe enthusiast; Play, Akka, Spark, Spray, Kamon, and Gatling - I love them all! You’ll find me at a lot of Scala and Typesafe related meetups and conferences, so if you ever want to talk about Akka or deep dive into a discussion about Reactive Streams with RxJava or Akka Streams, stay for a while!
+
+Meanwhile, this Jekyll theme for this website was crafted by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
-
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
