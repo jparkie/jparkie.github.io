@@ -13,7 +13,7 @@ google_verification:
 
 # Optional features
 animated:           false
-show_related_posts: false
+show_related_posts: true
 show_post_footers:  true
 show_social_icons:  true
 
@@ -41,12 +41,12 @@ share_text: 'Share this post!'
 share_facebook: true
 share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
-share_hackernews: false
+share_hackernews: true
 
 # Build settings
 markdown:     kramdown
